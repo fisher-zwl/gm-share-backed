@@ -16,8 +16,7 @@
 #### 使用说明
 
 1. npm install
-2. xxxx
-3. xxxx
+2. npm run start
 
 #### 参与贡献
 
